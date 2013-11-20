@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "dataRoot": [
+        {
+            "id": 1,
+            "name": "Bereich Vorne",
+            "isEnabled": true,
+            "startTime": "14:30",
+            "delay":30,
+            "item1_duration":45,
+            "item1_status":false,
+            "item2_duration":50,
+            "item2_status":true
+        },
+        {
+            "id": 2,
+            "name": "Bereich Hinten",
+            "isEnabled": true,
+            "startTime": "09:30",
+            "delay":20,
+            "item1_duration":25,
+            "item1_status":false,
+            "item2_duration":30,
+            "item2_status":true
+        },
+        {
+            "id": 3,
+            "name": "Bereich Hinten",
+            "isEnabled": true,
+            "startTime": "09:30",
+            "delay":20,
+            "item1_duration":25,
+            "item1_status":false,
+            "item2_duration":30,
+            "item2_status":true
+        }
+        
+    ]
+}
